@@ -1,3 +1,2 @@
-Socrates
-Joan of Arc
-Abraham Lincoln
+git commit confilt changes
+
